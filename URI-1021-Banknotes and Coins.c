@@ -1,3 +1,9 @@
+/**Bismillahir Rahmanir Rahim.
+-------------------------------
+S M MahDi -CSTE 10th , NSTU
+Date: 19-06-2016
+-------------------------------
+**/
 
 #include <stdio.h>
 int main()
@@ -9,7 +15,7 @@ int main()
 
     N=A;
 
-  /*  a=N/100;
+    a=N/100;
     b=N%100;
     c=b/50;
     d=b%50;
@@ -21,7 +27,7 @@ int main()
     j=h%5;
     k=j/2;
     l=j%2;
-    */
+    
 
     E=A*100;
 
@@ -38,7 +44,7 @@ int main()
     u=s%5;
 
 
-/*
+
     printf ("NOTAS:\n");
     printf ("%d nota(s) de R$ 100.00\n",a);
     printf ("%d nota(s) de R$ 50.00\n",c);
@@ -46,8 +52,6 @@ int main()
     printf ("%d nota(s) de R$ 10.00\n",g);
     printf ("%d nota(s) de R$ 5.00\n",i);
     printf ("%d nota(s) de R$ 2.00\n",k);
-
-    */
 
     printf ("MOEDAS:\n");
     printf ("%d moeda(s) de R$ 1.00\n",l);
